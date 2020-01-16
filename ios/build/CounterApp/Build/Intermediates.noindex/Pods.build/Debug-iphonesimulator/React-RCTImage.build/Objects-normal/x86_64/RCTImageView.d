@@ -1,0 +1,41 @@
+dependencies: \
+  /Users/silchenko/CounterApp/node_modules/react-native/Libraries/Image/RCTImageView.m \
+  /Users/silchenko/CounterApp/ios/Pods/Target\ Support\ Files/React-RCTImage/React-RCTImage-prefix.pch \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTImageView.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTView.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTResizeMode.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTImageSource.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTUIImageViewAnimated.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTAnimatedImage.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTImageBlurUtils.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTImageUtils.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTImageLoaderProtocol.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTURLRequestHandler.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTURLRequestDelegate.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTImageDataDecoder.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTImageURLLoader.h \
+  /Users/silchenko/CounterApp/ios/Pods/Headers/Public/React-Core/React/RCTImageCache.h

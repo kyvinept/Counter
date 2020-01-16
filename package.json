@@ -1,0 +1,52 @@
+{
+  "name": "react-native-counter-app",
+  "version": "0.0.1",
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colbymillerdev/react-native-progress-steps.git"
+  },
+  "dependencies": {
+    "react": "16.9.0",
+    "react-native": "0.61.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.3",
+    "@babel/runtime": "^7.8.3",
+    "@react-native-community/eslint-config": "^0.0.6",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.8.0",
+    "jest": "^24.9.0",
+    "metro-react-native-babel-preset": "^0.56.4",
+    "react-test-renderer": "16.9.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "author": "Colby Miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colbymillerdev/react-native-progress-steps/issues"
+  },
+  "homepage": "https://github.com/colbymillerdev/react-native-progress-steps#readme",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "stepper",
+    "progress",
+    "progress-steps"
+  ]
+}
